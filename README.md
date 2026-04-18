@@ -117,7 +117,7 @@ Deliverables:
 
 <p align="center">
   <a href="./assets/spec-extract-demo.mp4">
-    <img src="./assets/spec-reviewed.png" alt="Watch the spec-extract demo recording" width="900" />
+    <img src="./assets/spec-extract-demo-preview.png" alt="Watch the spec-extract demo recording" width="900" />
   </a>
 </p>
 
