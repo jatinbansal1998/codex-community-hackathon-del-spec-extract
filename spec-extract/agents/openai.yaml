@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Extract"
+  short_description: "Reverse-engineer reviewed workflow specs"
+  default_prompt: "Use $spec-extract to reverse-engineer a production workflow into a reviewed current-state spec."
