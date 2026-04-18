@@ -116,12 +116,12 @@ Deliverables:
 ## Demo
 
 <p align="center">
-  <a href="./assets/spec-extract-demo.mov">
+  <a href="./assets/spec-extract-demo.mp4">
     <img src="./assets/spec-reviewed.png" alt="Watch the spec-extract demo recording" width="900" />
   </a>
 </p>
 
-Watch the end-to-end session: [`assets/spec-extract-demo.mov`](./assets/spec-extract-demo.mov)
+Click the preview above to watch the end-to-end session, or open [`assets/spec-extract-demo.mp4`](./assets/spec-extract-demo.mp4) directly.
 
 ## Quick Start
 
